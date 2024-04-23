@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>
+	<book>
+	   <title>Harry Potter and the Philosopher’s Stone</title>
+	   <author>J. K. Rowling</author>
+	   <year>1997</year>
+	   <price>30.19</price>
+	</book>
+	<book>
+	   <title>UX Decoded: Think and Implement User-Centered Research Methodologies</title>
+	   <author>Dushyant Kanungo</author>
+	   <year>2022</year>
+	   <price>3000.00</price>
+	</book>
+</bookstore>
